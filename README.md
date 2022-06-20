@@ -1,4 +1,4 @@
-# untitled
+# Attendance Tracker Flutter
 
 A new Flutter project.
 
